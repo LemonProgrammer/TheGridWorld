@@ -36,5 +36,8 @@ public class BoxBugRunner
         world.add(new Location(7, 8), alice);
         world.add(new Location(5, 5), bob);
         world.show();
+        
+        
+        
     }
 }
